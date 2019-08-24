@@ -1,3 +1,3 @@
-tavoralucas.github.io
+https://tavoralucas.github.io/
 
 #MEU SITE PESSOAL
